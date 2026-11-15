@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "conduit",
+  "group": "pot",
   "category": "equipment",
   "key": {
     "X": "matcha:carbon_rich_iron"
