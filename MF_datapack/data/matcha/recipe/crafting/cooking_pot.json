@@ -3,13 +3,11 @@
   "group": "conduit",
   "category": "equipment",
   "key": {
-    "A": "matcha:carbon_rich_iron",
-    "B": "matcha:carbon_rich_iron",
-    "C": "matcha:carbon_rich_iron"
+    "X": "matcha:carbon_rich_iron"
   },
   "pattern": [
-    "B A",
-    " C "
+    "X X",
+    " X "
   ],
   "result": {
     "count": 1,
