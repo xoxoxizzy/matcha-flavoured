@@ -1,13 +1,8 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "equipment",
-	"pattern": [
-		"X X",
-		" X "
-	],
-	"key": {
-		"X": "minecraft:piglin_brute_spawn_egg"
-	},
+	"type": "minecraft:blasting",
+	"group": "pot",
+	"category": "misc",
+	"ingredient": "minecraft:bucket",
 	"result": {
 		"count": 1,
 		"id": "minecraft:creeper_spawn_egg",
@@ -26,5 +21,7 @@
 				"version": 1
 			}
 		}
-	}
+	},
+	"experience": 1,
+	"cookingtime": 200
 }
